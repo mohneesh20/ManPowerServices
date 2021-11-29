@@ -6,7 +6,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>ManPowerServices</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -261,7 +261,7 @@
         <b>
             <a class="navbar-brand">
 
-                <font style="font-size: 50px; color: aliceblue;"><img src="../imges/logo.jpg" width="50" height="50" alt="">&nbsp;mps.com</font>
+                <font style="font-size: 50px; color: aliceblue;"><img src="../imges/logo.jpg" width="50px" height="50px" alt="">&nbsp;mps.com</font>
             </a>
         </b>
         <div class="nav-item">
@@ -279,19 +279,19 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="../imges/plumber.jpg" class="d-block w-100" alt="..." height="500">
+                <img src="../imges/plumber.jpg" class="d-block w-100" alt="..." height="400">
             </div>
             <div class="carousel-item">
-                <img src="../imges/electrician.jpg" class="d-block w-100" alt="..." height="500">
+                <img src="../imges/electrician.jpg" class="d-block w-100" alt="..." height="400">
             </div>
             <div class="carousel-item">
-                <img src="../imges/contruction.jpg" class="d-block w-100" alt="..." height="500">
+            <img src="../imges/construction.png" class="d-block w-100" alt="..." height="400">
             </div>
             <div class="carousel-item">
-                <img src="../imges/painting.jpg" class="d-block w-100" alt="..." height="500">
+                <img src="../imges/painting.jpg" class="d-block w-100" alt="..." height="400">
             </div>
             <div class="carousel-item">
-                <img src="../imges/fabrication.jpg" class="d-block w-100" alt="..." height="500">
+                <img src="../imges/fabrication.jpg" class="d-block w-100" alt="..." height="400">
             </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
@@ -389,7 +389,7 @@
 -->
     <div class="row" style="background-color:black;">
         <div class="col-md-3 mb-3 ml-5 " style="color:white; margin-top:30px;">
-            <div class="card" style=" background-color:black;text-align:center; border-right:2px dotted white; padding:35.0px;">
+            <div class="card" style=" background-color:black;text-align:center; border-right:2px solid white; padding:35.0px;">
                 <h5 class="card-title" style="color:white;"><u>MEET THE DEVLEOPER</u></h5>
                 <img src="../imges/devimage.jpg" class="card-img" height="200" width="150" alt="..." style="border-radius:50%;">
                 <div class="card-body">
@@ -397,7 +397,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-3 mb-3" style="color:white;margin-top:30px;">
+        <!-- <div class="col-md-3 mb-3" style="color:white;margin-top:30px;">
             <div class="card" style=" padding: 2px; background-color:black;text-align:center; border-right:2px dotted white; padding:35.0px;">
                 <h5 class="card-title" style="color:white;"><u>MEET THE DEVLEOPER</u></h5>
                 <img src="../imges/devimage.jpg" class="card-img-top" height="200" alt="..." style="border-radius:50%;">
@@ -405,9 +405,9 @@
                     <p class="card-text" style="color:white; text-align:center;">MOHNEESH BANSAL<br>THAPAR UNIVERSITY<br>BATHINDA,PUNJAB</p>
                 </div>
             </div>
-        </div>
-        <div class="col-md-3" style="color:white; margin-top:30px;">
-            <div class="card" style=" padding: 2px; background-color:black;text-align:center;border-right:2px dotted white; height:420px;">
+        </div> -->
+        <div class="col-md-6" style="color:white; margin-top:30px;">
+            <div class="card" style=" padding: 2px; background-color:black;text-align:center; height:420px;">
                 <h5 class="card-title" style="color:white;"><u>REACH US</u></h5>
                 <div class="card-body">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3447.8807337916096!2d74.95013941507348!3d30.211951281821662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391732a4f07278a9%3A0x4a0d6293513f98ce!2sBanglore%20Computer%20Education%20(C%20C%2B%2B%20Android%20J2EE%20PHP%20Python%20AngularJs%20Spring%20Java%20Training%20Institute)!5e0!3m2!1sen!2sin!4v1594744150585!5m2!1sen!2sin" width="600" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" class="card-img"></iframe>
